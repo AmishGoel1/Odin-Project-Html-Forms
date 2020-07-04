@@ -59,3 +59,27 @@ p
     border: 1px solid #4c4c4c;
     color: white;
 }
+
+#logo-container
+{
+    height: 75px;
+    padding: 20px 0;
+}
+
+.center-logo
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#quick-links
+{
+    height: 42px;
+    padding-bottom: 4px;
+}
+
+#quick-links img
+{
+    height: 22px;
+}
